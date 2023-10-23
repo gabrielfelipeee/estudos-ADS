@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "programacao-orientada-a-objetos", "programacao-orientada-a-objetos", "{800504D3-EE05-4DB7-94AE-2A545CE90310}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "introducao-C#", "introducao-C#", "{24B341AF-CDDC-418A-858A-5DA8DBABB1B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "programa.Console", "programacao-orientada-a-objetos\introducao-C#\programa.Console\programa.Console.csproj", "{3F78F95C-36F8-4FC7-BD75-58264F898C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F78F95C-36F8-4FC7-BD75-58264F898C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F78F95C-36F8-4FC7-BD75-58264F898C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F78F95C-36F8-4FC7-BD75-58264F898C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F78F95C-36F8-4FC7-BD75-58264F898C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{24B341AF-CDDC-418A-858A-5DA8DBABB1B2} = {800504D3-EE05-4DB7-94AE-2A545CE90310}
+		{3F78F95C-36F8-4FC7-BD75-58264F898C0C} = {24B341AF-CDDC-418A-858A-5DA8DBABB1B2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F201B85B-3828-47D6-90C5-D4A55859ED8F}
+	EndGlobalSection
+EndGlobal

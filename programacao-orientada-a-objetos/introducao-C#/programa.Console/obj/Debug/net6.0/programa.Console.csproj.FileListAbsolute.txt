@@ -1,0 +1,15 @@
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/programa.Console/obj/Debug/net6.0/programa.Console.csproj.AssemblyReference.cache
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/programa.Console/obj/Debug/net6.0/programa.Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/programa.Console/obj/Debug/net6.0/programa.Console.AssemblyInfoInputs.cache
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/programa.Console/obj/Debug/net6.0/programa.Console.AssemblyInfo.cs
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/programa.Console/obj/Debug/net6.0/programa.Console.csproj.CoreCompileInputs.cache
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/programa.Console/bin/Debug/net6.0/programa.Console
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/programa.Console/bin/Debug/net6.0/programa.Console.deps.json
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/programa.Console/bin/Debug/net6.0/programa.Console.runtimeconfig.json
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/programa.Console/bin/Debug/net6.0/programa.Console.dll
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/programa.Console/bin/Debug/net6.0/ref/programa.Console.dll
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/programa.Console/bin/Debug/net6.0/programa.Console.pdb
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/programa.Console/obj/Debug/net6.0/programa.Console.dll
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/programa.Console/obj/Debug/net6.0/ref/programa.Console.dll
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/programa.Console/obj/Debug/net6.0/programa.Console.pdb
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/programa.Console/obj/Debug/net6.0/programa.Console.genruntimeconfig.cache
