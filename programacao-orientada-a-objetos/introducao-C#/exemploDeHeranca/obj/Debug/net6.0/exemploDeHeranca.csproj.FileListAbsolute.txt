@@ -1,0 +1,15 @@
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/bin/Debug/net6.0/exemploDeHeranca
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/bin/Debug/net6.0/exemploDeHeranca.deps.json
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/bin/Debug/net6.0/exemploDeHeranca.runtimeconfig.json
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/bin/Debug/net6.0/exemploDeHeranca.dll
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/bin/Debug/net6.0/ref/exemploDeHeranca.dll
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/bin/Debug/net6.0/exemploDeHeranca.pdb
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/obj/Debug/net6.0/exemploDeHeranca.csproj.AssemblyReference.cache
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/obj/Debug/net6.0/exemploDeHeranca.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/obj/Debug/net6.0/exemploDeHeranca.AssemblyInfoInputs.cache
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/obj/Debug/net6.0/exemploDeHeranca.AssemblyInfo.cs
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/obj/Debug/net6.0/exemploDeHeranca.csproj.CoreCompileInputs.cache
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/obj/Debug/net6.0/exemploDeHeranca.dll
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/obj/Debug/net6.0/ref/exemploDeHeranca.dll
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/obj/Debug/net6.0/exemploDeHeranca.pdb
+/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/obj/Debug/net6.0/exemploDeHeranca.genruntimeconfig.cache
