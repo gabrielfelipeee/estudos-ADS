@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/gabriel/.nuget/packages/": {}
+    "C:\\Users\\gabri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/exemploDeHeranca.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\Desktop\\estudos-ADS\\programacao-orientada-a-objetos\\introducao-C#\\exemploDeHeranca\\exemploDeHeranca.csproj",
       "projectName": "exemploDeHeranca",
-      "projectPath": "/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/exemploDeHeranca.csproj",
-      "packagesPath": "/home/gabriel/.nuget/packages/",
-      "outputPath": "/home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/obj/",
+      "projectPath": "C:\\Users\\gabri\\Desktop\\estudos-ADS\\programacao-orientada-a-objetos\\introducao-C#\\exemploDeHeranca\\exemploDeHeranca.csproj",
+      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabri\\Desktop\\estudos-ADS\\programacao-orientada-a-objetos\\introducao-C#\\exemploDeHeranca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/gabriel/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.123/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

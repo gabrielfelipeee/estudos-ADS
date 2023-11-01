@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\metodosStrings\metodosStrings\metodosStrings\bin\Debug\net7.0\metodosStrings.exe
+C:\Users\gabri\Desktop\metodosStrings\metodosStrings\metodosStrings\bin\Debug\net7.0\metodosStrings.deps.json
+C:\Users\gabri\Desktop\metodosStrings\metodosStrings\metodosStrings\bin\Debug\net7.0\metodosStrings.runtimeconfig.json
+C:\Users\gabri\Desktop\metodosStrings\metodosStrings\metodosStrings\bin\Debug\net7.0\metodosStrings.dll
+C:\Users\gabri\Desktop\metodosStrings\metodosStrings\metodosStrings\bin\Debug\net7.0\metodosStrings.pdb
+C:\Users\gabri\Desktop\metodosStrings\metodosStrings\metodosStrings\obj\Debug\net7.0\metodosStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\metodosStrings\metodosStrings\metodosStrings\obj\Debug\net7.0\metodosStrings.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\metodosStrings\metodosStrings\metodosStrings\obj\Debug\net7.0\metodosStrings.AssemblyInfo.cs
+C:\Users\gabri\Desktop\metodosStrings\metodosStrings\metodosStrings\obj\Debug\net7.0\metodosStrings.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\metodosStrings\metodosStrings\metodosStrings\obj\Debug\net7.0\metodosStrings.dll
+C:\Users\gabri\Desktop\metodosStrings\metodosStrings\metodosStrings\obj\Debug\net7.0\refint\metodosStrings.dll
+C:\Users\gabri\Desktop\metodosStrings\metodosStrings\metodosStrings\obj\Debug\net7.0\metodosStrings.pdb
+C:\Users\gabri\Desktop\metodosStrings\metodosStrings\metodosStrings\obj\Debug\net7.0\metodosStrings.genruntimeconfig.cache
+C:\Users\gabri\Desktop\metodosStrings\metodosStrings\metodosStrings\obj\Debug\net7.0\ref\metodosStrings.dll

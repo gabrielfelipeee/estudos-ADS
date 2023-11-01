@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\manipulacaoStrings\manipulacaoStrings\manipulacaoStrings\bin\Debug\net7.0\manipulacaoStrings.exe
+C:\Users\gabri\Desktop\manipulacaoStrings\manipulacaoStrings\manipulacaoStrings\bin\Debug\net7.0\manipulacaoStrings.deps.json
+C:\Users\gabri\Desktop\manipulacaoStrings\manipulacaoStrings\manipulacaoStrings\bin\Debug\net7.0\manipulacaoStrings.runtimeconfig.json
+C:\Users\gabri\Desktop\manipulacaoStrings\manipulacaoStrings\manipulacaoStrings\bin\Debug\net7.0\manipulacaoStrings.dll
+C:\Users\gabri\Desktop\manipulacaoStrings\manipulacaoStrings\manipulacaoStrings\bin\Debug\net7.0\manipulacaoStrings.pdb
+C:\Users\gabri\Desktop\manipulacaoStrings\manipulacaoStrings\manipulacaoStrings\obj\Debug\net7.0\manipulacaoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\manipulacaoStrings\manipulacaoStrings\manipulacaoStrings\obj\Debug\net7.0\manipulacaoStrings.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\manipulacaoStrings\manipulacaoStrings\manipulacaoStrings\obj\Debug\net7.0\manipulacaoStrings.AssemblyInfo.cs
+C:\Users\gabri\Desktop\manipulacaoStrings\manipulacaoStrings\manipulacaoStrings\obj\Debug\net7.0\manipulacaoStrings.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\manipulacaoStrings\manipulacaoStrings\manipulacaoStrings\obj\Debug\net7.0\manipulacaoStrings.dll
+C:\Users\gabri\Desktop\manipulacaoStrings\manipulacaoStrings\manipulacaoStrings\obj\Debug\net7.0\refint\manipulacaoStrings.dll
+C:\Users\gabri\Desktop\manipulacaoStrings\manipulacaoStrings\manipulacaoStrings\obj\Debug\net7.0\manipulacaoStrings.pdb
+C:\Users\gabri\Desktop\manipulacaoStrings\manipulacaoStrings\manipulacaoStrings\obj\Debug\net7.0\manipulacaoStrings.genruntimeconfig.cache
+C:\Users\gabri\Desktop\manipulacaoStrings\manipulacaoStrings\manipulacaoStrings\obj\Debug\net7.0\ref\manipulacaoStrings.dll

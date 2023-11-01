@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manipulacaoStrings", "manipulacaoStrings\manipulacaoStrings.csproj", "{C6AE04FB-9DFA-46EE-BE71-773E99775354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6AE04FB-9DFA-46EE-BE71-773E99775354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AE04FB-9DFA-46EE-BE71-773E99775354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AE04FB-9DFA-46EE-BE71-773E99775354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AE04FB-9DFA-46EE-BE71-773E99775354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAC0AE54-4E70-4425-A876-5DF474A5B203}
+	EndGlobalSection
+EndGlobal

@@ -13,3 +13,17 @@
 /home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/obj/Debug/net6.0/ref/exemploDeHeranca.dll
 /home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/obj/Debug/net6.0/exemploDeHeranca.pdb
 /home/gabriel/Documents/estudos-ADS/programacao-orientada-a-objetos/introducao-C#/exemploDeHeranca/obj/Debug/net6.0/exemploDeHeranca.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\introducao-C#\exemploDeHeranca\bin\Debug\net6.0\exemploDeHeranca.exe
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\introducao-C#\exemploDeHeranca\bin\Debug\net6.0\exemploDeHeranca.deps.json
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\introducao-C#\exemploDeHeranca\bin\Debug\net6.0\exemploDeHeranca.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\introducao-C#\exemploDeHeranca\bin\Debug\net6.0\exemploDeHeranca.dll
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\introducao-C#\exemploDeHeranca\bin\Debug\net6.0\exemploDeHeranca.pdb
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\introducao-C#\exemploDeHeranca\obj\Debug\net6.0\exemploDeHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\introducao-C#\exemploDeHeranca\obj\Debug\net6.0\exemploDeHeranca.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\introducao-C#\exemploDeHeranca\obj\Debug\net6.0\exemploDeHeranca.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\introducao-C#\exemploDeHeranca\obj\Debug\net6.0\exemploDeHeranca.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\introducao-C#\exemploDeHeranca\obj\Debug\net6.0\exemploDeHeranca.dll
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\introducao-C#\exemploDeHeranca\obj\Debug\net6.0\refint\exemploDeHeranca.dll
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\introducao-C#\exemploDeHeranca\obj\Debug\net6.0\exemploDeHeranca.pdb
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\introducao-C#\exemploDeHeranca\obj\Debug\net6.0\exemploDeHeranca.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\introducao-C#\exemploDeHeranca\obj\Debug\net6.0\ref\exemploDeHeranca.dll
