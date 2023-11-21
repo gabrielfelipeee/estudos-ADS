@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\delgates\delgates\delgates\obj\Debug\net7.0\delgates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\delgates\delgates\delgates\obj\Debug\net7.0\delgates.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\delgates\delgates\delgates\obj\Debug\net7.0\delgates.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\delgates\delgates\delgates\obj\Debug\net7.0\delgates.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\delgates\delgates\delgates\obj\Debug\net7.0\delgates.sourcelink.json
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\delgates\delgates\delgates\bin\Debug\net7.0\delgates.exe
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\delgates\delgates\delgates\bin\Debug\net7.0\delgates.deps.json
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\delgates\delgates\delgates\bin\Debug\net7.0\delgates.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\delgates\delgates\delgates\bin\Debug\net7.0\delgates.dll
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\delgates\delgates\delgates\bin\Debug\net7.0\delgates.pdb
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\delgates\delgates\delgates\obj\Debug\net7.0\delgates.dll
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\delgates\delgates\delgates\obj\Debug\net7.0\refint\delgates.dll
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\delgates\delgates\delgates\obj\Debug\net7.0\delgates.pdb
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\delgates\delgates\delgates\obj\Debug\net7.0\delgates.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos-ADS\programacao-orientada-a-objetos\delgates\delgates\delgates\obj\Debug\net7.0\ref\delgates.dll
